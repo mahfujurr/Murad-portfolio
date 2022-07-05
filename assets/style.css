@@ -34,11 +34,11 @@ p{
     font-weight: 700;
 }
 .top-b{
-    background-image: url(images/top-banner.png);
+    background-image: url(./images/top-banner.png);
     background-repeat: no-repeat;
 }
 .mid-b{
-    background-image: url(images/dream-bg.png);
+    background-image: url(./images/dream-bg.png);
     background-repeat: no-repeat;
     background-position: right;
     padding-bottom: 20%;
@@ -49,10 +49,11 @@ p{
     padding-left: 20px;
     box-shadow: 10px 10px 40px gray;
     border-radius: 5px;
+    background-color: #ffffff; 
 
 }
 .last-b{
-    background-image: url(images/exp-bg.png);
+    background-image: url(./images/exp-bg.png);
     background-repeat: no-repeat;
     background-position: left;
 }
